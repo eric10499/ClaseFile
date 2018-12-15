@@ -18,7 +18,7 @@
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
  * MA 02110-1301, USA.
  * 
- * Aquest programa realiza la conversió de les dades de l'arxiu tsv a un fitxer sql.
+ *  Realiza un programa Java que utilice el método listFiles() para mostrar la lista de ficheros de un directorio que se pasará al programa desde los argumentos del main 
  * 
  * Fet per Eric Visier Sánchez
  * 
