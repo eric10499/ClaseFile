@@ -18,7 +18,7 @@
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
  * MA 02110-1301, USA.
  * 
- * Realiza un programa Java que utilice el método listFiles() para mostrar la lista de ficheros de un directorio que se pasará al programa desde los argumentos del main
+ * Ahora haz los cambios necesarios para que el programa anterior muestre los ficheros del directorio introducido desde línea de comandos al ejecutar el programa 
  * 
  * Fet per Eric Visier Sánchez
  * 
