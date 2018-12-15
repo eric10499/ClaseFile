@@ -18,7 +18,7 @@
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
  * MA 02110-1301, USA.
  * 
- *  Cambia la ruta del ejemplo anterior. Utiliza una ruta absoluta a tu carpeta de descargas, por ejemplo. Ahora haz los cambios necesarios para que el programa anterior muestre los ficheros del directorio introducido desde línea de comandos al ejecutar el programa 
+ *  Cambia la ruta del ejemplo anterior. Utiliza una ruta absoluta a tu carpeta de descargas, por ejemplo. 
  * 
  * Fet per Eric Visier Sánchez
  * 
